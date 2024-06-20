@@ -451,7 +451,7 @@ translate3d(0,0,0);
   background-image: url(../img/nepal-img/genda.webp);
 }
 .fade-carousel .slides .slide-6 {
-  background-image: url(../img/nepal-img/banner.jpg);
+  background-image: url(../img/nepal-img/gorakha-nepal.webp);
 }
 .fade-carousel .slides .slide-7 {
   background-image: url(../img/nepal-img/kathmandu-temple-2.webp);
@@ -672,5 +672,9 @@ translate3d(0,0,0);
     .img-size{
         height: 400px;
         
+    }
+    .genda-img{
+        height: 250px;
+        width: 100%;
     }
 }
