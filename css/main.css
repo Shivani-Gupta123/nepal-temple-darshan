@@ -435,20 +435,20 @@ translate3d(0,0,0);
   background-repeat: no-repeat;
 }
 .fade-carousel .slides .slide-1 {
-  background-image: url(../img/nepal-img/muktidham-temple.webp); 
+  background-image: url(../img/Ganesh-Bagh-1280-1-ot6r8733ef7cf99osabaphzn8bpzu3n29sf0o58jz4.webp); 
 }
 .fade-carousel .slides .slide-2 {
-  background-image: url(../img/nepal-img/pokhra.webp);
+  background-image: url(../img/tourist-places-in-chitrakoot1.png);
 }
 .fade-carousel .slides .slide-3 {
-  background-image: url(../img/nepal-img/muktidham-hd-nepal.jpg);
+  background-image: url(../img/tourist-places-in-chitrakoot3.webp);
 }
 
 .fade-carousel .slides .slide-4 {
-  background-image: url(../img/nepal-img/muktidham-temple.webp);
+  background-image: url(../img/358138.webp);
 }
 .fade-carousel .slides .slide-5 {
-  background-image: url(../img/nepal-img/genda.webp);
+  background-image: url(../img/images.webp);
 }
 .fade-carousel .slides .slide-6 {
   background-image: url(../img/nepal-img/gorakha-nepal.webp);
@@ -539,6 +539,11 @@ translate3d(0,0,0);
     font-family: sans-serif;
     font-weight: 700;
 }
+
+#sgc{
+    margin-bottom: 50px;
+}
+
 #sgc h2{
    font-size: 35px;
     text-align: center;
